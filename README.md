@@ -1,2 +1,2 @@
 # MMStore
- E-commere keyboards and mice
+ E-commere keyboards and mices
